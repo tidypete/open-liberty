@@ -1,4 +1,4 @@
-FROM tidypete/wlp:v1
+FROM image-registry.openshift-image-registry.svc:5000/dev/openshift-websphere-helloworld:latest
 
 # install war
 
