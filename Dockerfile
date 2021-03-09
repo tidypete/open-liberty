@@ -1,4 +1,4 @@
-FROM openliberty/open-liberty:kernel-java8-openj9-ubi
+FROM dregistry.sanlam.co.za/library/open-liberty:kernel-java13-openj9-ubi
 
 ## docker build -t daytrader-sample:1.0-SNAPSHOT .
 
